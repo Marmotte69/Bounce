@@ -1,0 +1,42 @@
+opened convpng.ini
+
+--- sprite (C) ---
+building palette with [256] available indices ...
+built palette with [256] indices.
+palette quality : 95.72%
+transparent color index : 0
+transparent color : 0xFFFF
+25:
+ brique : 94.91%
+ briqueBleu : 98.07%
+ bulle : 95.82%
+ fleche : 93.38%
+ losange : 83.01%
+ pompe : 79.26%
+ ennemi : 90.72%
+ degonfleur : 88.64%
+ GaucheJaunePetit : 94.72%
+ GaucheJauneGrand : 95.03%
+ DroitJauneGrand : 94.73%
+ DroitJaunePetit : 94.73%
+ GaucheGrisPetit : 97.18%
+ GaucheGrisGrand : 97.66%
+ DroitGrisGrand : 98.17%
+ DroitGrisPetit : 98.15%
+ Petitcerceau : 70.46%
+ balle : 95.70%
+ bonus3 : 95.55%
+ bonus2 : 83.20%
+ bonus1 : 85.75%
+ barreJaune : 88.53%
+ pop : 79.10%
+ portailFerme : 99.04%
+ portailOuvert : 100.00%
+
+converted in 1 s
+
+[warning] image quality might be too low.
+please try grouping similar images, reducing image colors, 
+or selecting a better palette if conversion is not ideal.
+
+finished!
